@@ -1,0 +1,86 @@
+body{
+    padding:0px;
+    margin:0%
+}
+p{
+   margin:0px;
+   height:40px;
+   
+}
+.blue{
+    background-color: blue;
+    color: blue;
+}
+.blue1{
+    background-color: rgb(81, 81, 255);
+    color: rgb(81, 81, 255);
+}
+.blue2{
+    background-color: rgb(112, 112, 255);
+    color: rgb(112, 112, 255);
+}
+.blue3{
+    background-color: rgb(128, 128, 254);
+    color: rgb(142, 142, 253);
+}
+.blue4{
+    background-color: rgb(146, 146, 249);
+    color: rgb(158, 158, 253);
+}
+.blue5{
+    background-color: rgb(166, 166, 247);
+    color: rgb(166, 166, 247);
+}
+.blue6{
+    background-color: rgb(179, 179, 253);
+    color: rgb(179, 179, 253);
+}
+.blue7{
+    background-color: rgb(194, 194, 250);
+    color: rgb(194, 194, 250);
+}.blue8{
+    background-color: rgb(209, 209, 255);
+    color: rgb(209, 209, 255);
+}.blue9{
+    background-color: rgb(223, 223, 255);
+    color: rgb(209, 209, 255);
+}
+.blue10{
+    background-color: rgb(230, 230, 249);
+    color: rgb(230, 230, 249);
+}.blue11{
+    background-color: rgb(252, 222, 248);
+    color: rgb(230, 230, 249);
+}.blue12{
+    background-color: rgb(251, 214, 246);
+    color: rgb(251, 214, 246);
+}
+.blue13{
+    background-color: rgb(250, 204, 244);
+    color: rgb(250, 204, 244);
+
+}.blue14{
+    background-color: rgb(255, 192, 247);
+    color: rgb(255, 192, 247);
+}.blue15{
+    background-color: rgb(255, 172, 244);
+    color: rgb(255, 172, 244);
+}.blue16{
+    background-color: rgb(251, 154, 238);
+    color: rgb(251, 154, 238);
+}
+.blue17{
+    background-color: rgb(255, 138, 239);
+    color: rgb(255, 138, 239);
+}
+.blue18{
+    background-color: rgb(253, 99, 232);
+    color: rgb(253, 99, 232);
+}.blue19{
+    background-color: rgb(251, 154, 238);
+    color: rgb(251, 154, 238);
+}.blue20{
+    background-color: rgb(251, 154, 238);
+    color: rgb(251, 154, 238);
+}
+
